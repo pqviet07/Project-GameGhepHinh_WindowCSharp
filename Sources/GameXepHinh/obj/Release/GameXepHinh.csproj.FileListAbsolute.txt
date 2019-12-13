@@ -1,0 +1,15 @@
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\bin\Release\GameXepHinh.exe.config
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\bin\Release\GameXepHinh.exe
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\bin\Release\GameXepHinh.pdb
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\obj\Release\MainWindow.g.cs
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\obj\Release\App.g.cs
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\obj\Release\GameXepHinh_MarkupCompile.cache
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\obj\Release\GameXepHinh_MarkupCompile.lref
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\obj\Release\MainWindow.baml
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\obj\Release\GameXepHinh.g.resources
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\obj\Release\GameXepHinh.Properties.Resources.resources
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\obj\Release\GameXepHinh.csproj.GenerateResource.cache
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\obj\Release\GameXepHinh.csproj.CoreCompileInputs.cache
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\obj\Release\GameXepHinh.exe
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\obj\Release\GameXepHinh.pdb
+C:\Users\QUOCVIET\Desktop\crop\1712907_1712912_1712914\1712907_1712912_1712914\GameXepHinh\obj\Release\GameXepHinh.csprojAssemblyReference.cache
